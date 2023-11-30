@@ -1,70 +1,49 @@
-# Getting Started with Create React App
+# React-Tailwind-Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Introduction
 
-## Available Scripts
+This project is a web profile portfolio, designed to showcase my front-end development skills. It's built using React, TailwindCSS, and JavaScript, and was developed by closely following a specific walkthrough video on YouTube. This portfolio not only demonstrates my technical abilities in these technologies but also highlights my ability to learn and implement new concepts from educational resources like video tutorials.
 
-In the project directory, you can run:
+## Features
+
+- **Single-Page Application**: This portfolio is designed as a dynamic single-page application (SPA), providing all content within one seamless page for an intuitive and fluid user experience.
+- **Responsive Design**: Crafted using TailwindCSS, the portfolio is responsive, ensuring a consistent and accessible experience on a variety of devices, from desktops to mobile phones.
+- **Interactive UI with React**: Leveraging React's powerful capabilities for building interactive user interfaces, this portfolio offers a dynamic and engaging experience for visitors.
+- **Modern JavaScript Practices**: Implemented using contemporary JavaScript techniques, the codebase is efficient, clean, and adheres to the latest standards in web development.
+
+## Demo
+
+Check out the live demo **\_**.(Yet to implement)
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. **Clone the Repository**
+
+   ```bash
+   git clone https://github.com/Anson-Tng/React-Tailwind-Portfolio.git
+
+   ```
+
+2. **Navigate to the Project Directory**
+
+### `cd React-Tailwind-Portfolio`
+
+3. **Run the Application**
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Usage
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+After running the application, you can navigate through various sections showcasing my skills, projects, and experiences. (Yet to put in my actual information)
 
-### `npm test`
+## License
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+This project is licensed under the MIT License.
 
-### `npm run build`
+## Acknowledgements
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+YouTube Tutorial: https://www.youtube.com/watch?v=lJ2EBYN0C70
+React Tutorial: https://www.youtube.com/watch?v=SqcY0GlETPk&t=15s
+TailwindCSS: https://tailwindcss.com/
